@@ -8,6 +8,18 @@ The study compares two industry-standard baselines against three deep video arch
 emphasis on **cross-domain robustness**, **threshold calibration**, **explainability (Grad-CAM)**,
 and **real-time deployment feasibility** for Advanced Driver-Assistance Systems (ADAS).
 
+## 📄 Publication
+
+This work has been **accepted at ICECET 2026** (International Conference on Electrical, Computer
+and Energy Technologies) and is **forthcoming in IEEE Xplore** (indexing expected within ~2 months
+of acceptance).
+
+> **Baseline vs Exploratory Deep Learning Video Models for Driver Drowsiness Detection:
+> A Multi-Dataset Evaluation**
+> Accepted at *ICECET 2026* — to appear in IEEE Xplore.
+
+> _The full citation and DOI will be added here once the paper is indexed._
+
 ## Models
 
 **Baselines**
