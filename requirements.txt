@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+tqdm
+
+# Deep learning
+torch
+torchvision
+
+# Baselines / facial landmarks
+mediapipe
+opencv-python
+
+# Metrics & plotting
+scikit-learn
+matplotlib

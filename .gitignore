@@ -1,0 +1,19 @@
+# Datasets & generated clips
+Clips/
+Datasets_PreProcessing/
+*.npz
+*.mp4
+*.avi
+
+# Model checkpoints & outputs
+outputs_all_3_models/
+outputs_all_3_models_v2/
+*.pt
+*.pth
+
+# Notebook / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
