@@ -42,6 +42,23 @@ of acceptance).
 All experiments use **subject-independent splits** and identical preprocessing: clips of **16 frames**
 at **112×112**, **10 fps**, **stride 8**, stored as `.npz` arrays.
 
+### Data availability & licensing
+
+> **No dataset data is redistributed in this repository.** UTA-RLDD, YawDD, and DROZY are the property
+> of their respective authors and remain governed by their own access terms and licences. This repo
+> contains **only my own code** (preprocessing, training, and evaluation notebooks) — no raw videos,
+> generated clips, manifests, or trained checkpoints are included (all excluded via `.gitignore`).
+>
+> To reproduce, obtain each dataset **directly from its original source** and comply with that source's
+> terms:
+> - **UTA-RLDD** — University of Texas at Arlington Real-Life Drowsiness Dataset (request access from the authors).
+> - **YawDD** — Yawning Detection Dataset (available from its original distributor under its own terms).
+> - **DROZY** — University of Liège ULg Multimodality Drowsiness Database (requires signing the providers' licence/EULA).
+>
+> Please cite the original dataset papers when using them. The MIT licence on this repository covers
+> **the code only** — it does not grant any rights to the third-party datasets or to model weights
+> derived from them.
+
 ## Pipeline
 
 The notebooks run in order and form the full pipeline:
